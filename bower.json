@@ -1,0 +1,20 @@
+{
+  "name": "example",
+  "description": "gulp_pug_sass_bem",
+  "main": "index.js",
+  "authors": [
+    "Frants Andrey"
+  ],
+  "license": "",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mdi": "^1.9.33"
+  }
+}
